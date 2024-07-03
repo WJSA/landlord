@@ -1,3 +1,31 @@
+# Landlord Onboarding App
+
+This project is a web application designed to help landlords onboard their apartments and manage their properties. The application is built using Next.js, Tailwind CSS, and Supabase for the backend services.
+
+## Features
+- Landlord authentication using Supabase Auth
+- Add and manage apartments and rooms
+- Filter apartments by location and price
+- Responsive design with Tailwind CSS
+
+## Getting Started
+
+Follow these instructions to set up and run the project locally on your machine.
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+- A Supabase account
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/WJSA/landlord.git
+   cd landlord
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
